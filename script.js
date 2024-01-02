@@ -96,7 +96,7 @@ function getPasswordOptions() {
 
 // Validate input
 // NaN is short for "Not-a-Number". The isNaN() method returns true if a value is NaN.
-while(isNaN(password_length) ==true || password_length<8 || password_length>128) {
+while(isNaN(password_length)==true || password_length<8 || password_length>128) {
   password_length = prompt(`Invalid password. Pick a password with 8 - 128 characters. Input the amount of characters`)
 };
 
@@ -113,7 +113,6 @@ answers.upper = password_upperCasedCharacters;
 answers.numeric = password_numericCharacters;
 answers.special = password_specialCharacters;
 
-return answers
 
 // Function for getting a random element from an array
 function getRandom(arr) {
