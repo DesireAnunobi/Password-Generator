@@ -5,11 +5,12 @@ Skills Boot Camp in Front-End Web Development - Module-5-challenge - Intermediat
 This Module 4 Challenge was created for the Front-End Web Developer boot camp students. The task was to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. The password can include special characters.
 
 What I learnt?
-- 
-
+- How to use Javascript to create a password generator
+- How different functions and strings work together to achieve desired result
 
 I encountered some challenges on the way including:
-- 
+- Using functions in js to achieve desired result
+Using if for the true values
 
 Link to the deployed application here:
 
@@ -53,7 +54,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
-
+https://w3schools.invisionzone.com/topic/25095-javascript-password-generator/
+https://stackoverflow.com/questions/1497481/javascript-password-generator
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
 
 ## License
 
